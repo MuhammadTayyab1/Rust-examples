@@ -1,0 +1,19 @@
+first of all Follow these steps
+
+1 ) install rust plateform 
+2 ) Open Terminal
+3 ) $ cargo new newproject --bin
+4 ) enter
+5 ) $ cd newproject
+6 ) enter
+
+note : Not try to close terminal just minimize it
+
+7 ) Open newproject folder which is show on home
+8 ) Open Src folder
+9 ) Open main.rs file
+10) And start coading
+11) After enter coding save file and return on terminal and type cargo run
+12) enter
+13) The output become on terminal screen
+
