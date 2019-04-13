@@ -1,9 +1,10 @@
 fn main() {
 
     
-
+    // data in variable
     let op=4;
 
+    // checking condition 
     if op==1
     {
        println!("one");
@@ -17,6 +18,7 @@ fn main() {
     {
       println!("three");
     }
+    // Default condition
     else 
     {
       println!("four or other number");
