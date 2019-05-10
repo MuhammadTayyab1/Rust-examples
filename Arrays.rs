@@ -11,6 +11,7 @@ fn main() {
             println!("{0}",numdata[i]);
 
          }
+        
          println!("=========================================");
          println!(" ");
          println!("Array of text");
