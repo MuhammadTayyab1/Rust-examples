@@ -5,6 +5,7 @@ fn main() {
     let s = String::from("hello");
     let slice = &s[0..5];
     println!("slice form \n 0-5 \n {0}  \n\n",slice);
+    
 
 
 
