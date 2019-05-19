@@ -12,6 +12,7 @@ fn main() {
 
          }
         
+        
          println!("=========================================");
          println!(" ");
          println!("Array of text");
