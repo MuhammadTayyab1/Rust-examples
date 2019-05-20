@@ -14,6 +14,7 @@ fn main() {
    
     let capital = String::from_utf8_lossy(&cap);
     let small = String::from_utf8_lossy(&sam);
+        
 
         // print 
     println!("{0} {1}", capital,small);
