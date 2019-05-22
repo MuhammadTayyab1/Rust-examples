@@ -7,8 +7,9 @@ first of all Follow these steps
 5 ) $ cd newproject
 6 ) enter
 
-note : Not try to close terminal just minimize it
 
+note! Not try to close terminal just minimize it
+  
 7 ) Open newproject folder which is show on home
 8 ) Open Src folder
 9 ) Open main.rs file
