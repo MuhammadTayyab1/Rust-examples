@@ -1,7 +1,7 @@
 fn main() {
 
     
-    // data in variable
+    // data in variable, you can take from user
     let op=4;
 
     // checking condition 
