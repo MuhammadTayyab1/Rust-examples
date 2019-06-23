@@ -15,6 +15,7 @@ fn main() {
     let slice1= &q[2..8];
     println!("slice form \n 2-8 \n {0} \n\n ",slice1);
 
+    
     println!("String joining ");
     let mut s = String::from("hello");
     s.push_str(", world!"); 
