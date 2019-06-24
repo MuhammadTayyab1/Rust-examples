@@ -18,6 +18,7 @@ fn main() {
          println!("Array of text");
          println!("=========================================");
         
+        // initilize array and assign data 
          let mut textdata=["text","my text","own data","rust","webassembly","country","computer","cargo run","function","start"];
 
          for j in 0..textdata.len()
