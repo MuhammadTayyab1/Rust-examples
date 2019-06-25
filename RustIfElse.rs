@@ -8,7 +8,6 @@ fn main() {
     if op==1
     {
        println!("one");
-     
     }
     else if op==2
     {
