@@ -16,7 +16,7 @@ fn main() {
     let small = String::from_utf8_lossy(&sam);
         
 
-        // print 
+    // print 
     println!("{0} {1}", capital,small);
     count+=1;
     count1+=1;
