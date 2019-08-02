@@ -2,6 +2,7 @@
 fn main() {
         
          let mut i=0;
+        // for one side
          loop
          {
             if i < 20
@@ -19,7 +20,8 @@ fn main() {
             }
          }
 
-
+        
+          // for another side
           let mut j=20;
          loop
          {
