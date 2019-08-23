@@ -21,6 +21,7 @@ fn main() {
          }
 
         
+        
           // for another side
           let mut j=20;
          loop
