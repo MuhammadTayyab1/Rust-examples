@@ -34,6 +34,7 @@ fn main() {
                 print!("*");
                 continue;
                }
+               // leave line
                println!("");
             }
             else
